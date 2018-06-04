@@ -9,7 +9,7 @@ The installation works quickly and simply, it only needs a few steps:
 
 ```
 $ git clone https://github.com/firemanxbr/a2a.git
-$ pip3 install -r a2a / requirements.txt --user
+$ pip3 install -r a2a/requirements.txt --user
 ```
 
 
